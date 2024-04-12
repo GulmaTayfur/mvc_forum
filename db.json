@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": "Mehmet",
+      "title": "React MVC Pattern (Mimari)",
+      "text": "MVC Mimari ile nasıl bileşenleri yöntirim??",
+      "date": "2023-09-10"
+    },
+    {
+      "id": "2",
+      "user": "Ali",
+      "title": "React MVVM Paterni",
+      "text": "Bu nedir???",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": "3",
+      "date": "2023-09-11T19:13:21.364Z",
+      "title": "React Problemi",
+      "text": "Bunu nasıl çözeriz???",
+      "user": "Ahmet"
+    },
+    {
+      "id": "1ad30c6e-84bc-43ff-8b4c-cd7ad4024dd6",
+      "user": "Ali",
+      "title": "Fireabase",
+      "text": "Yeni güncellemdden sonra...."
+    },
+    {
+      "id": "8e02feb3-f4c5-42ea-b6d5-393d85ebf785",
+      "user": "Mehmet",
+      "title": "JSX Nedir?",
+      "text": "JSXJSX JSX JSXJSXJSXJSXJSXJSXJSX"
+    },
+    {
+      "id": "5fed16c7-53aa-4c02-b860-91f2848e6cc4",
+      "user": "Ömer",
+      "title": "Bootstarptaki yenilikleri incele",
+      "text": "Kütüphane de yeni eklemeler olmuş"
+    },
+    {
+      "id": "6a8f04f4-973d-4439-bd1e-79e97df45b88",
+      "user": "Ömer",
+      "title": "React kurulum",
+      "text": "npm run dev şeklinde yazmam yeterli mi?"
+    },
+    {
+      "id": "2487ba97-570d-49fb-8fb8-67a91e13b765",
+      "user": "Ayşe",
+      "title": "Axios",
+      "text": "get ve push dışında hani api istekleri var?"
+    }
+  ]
+}
